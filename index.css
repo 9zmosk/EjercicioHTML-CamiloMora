@@ -1,0 +1,30 @@
+html{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.calculadoraContainer{
+    background-color: rgb(196, 217, 235);
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.calculadoraContainer h1{
+    padding: 0 25%;
+}
+
+.calculadoraContainer input{
+    margin-bottom: 10px;
+    border: 0px;
+    border-radius: 5px;
+}
+
